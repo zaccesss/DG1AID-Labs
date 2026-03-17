@@ -21,6 +21,7 @@
   <a href="#module-overview">Overview</a> •
   <a href="#module-structure">Structure</a> •
   <a href="#labs-in-this-repo">Labs</a> •
+  <a href="#revision-notes">Notes</a> •
   <a href="#tools-and-environment">Tools</a> •
   <a href="#key-reading">Reading</a>
 </p>
@@ -70,9 +71,9 @@ The module is divided into **4 Units** across 10 teaching weeks:
 Covers the history and philosophy of AI, key definitions and approaches, AI ethics, and the mathematical foundations needed for AI and data science.
 
 - [x] Week 1 - Python I: Basic Python (data types, strings, lists, dictionaries, tuples, functions, classes)
-- [ ] Week 1 - Python II: NumPy library exercises (arrays, statistics, matrix operations)
-- [ ] Week 2 - AI Ethics tutorial
-- [ ] Week 3 - Mathematics and Logic Refresher (vectors, matrices, probability, logic)
+- [x] Week 1 - Python II: NumPy library exercises (arrays, statistics, matrix operations)
+- [x] Week 2 - AI Ethics tutorial (Zaccess Check intelligence test, ethical conundrum analysis)
+- [x] Week 3 - Data Handling and Visualisation (vectors, matrices, statistics, charts)
 
 ### Unit 2 - Data Science Fundamentals
 Covers the data science pipeline, statistical concepts, data cleaning, manipulation and visualisation using Python and Excel.
@@ -91,6 +92,21 @@ Covers supervised and unsupervised learning, classification, regression, neural 
 
 - [ ] Week 9 - Teachable Machines (Google)
 - [ ] Week 10 - Machine Learning in Python (scikit-learn, neural networks)
+
+---
+
+<a id="revision-notes"></a>
+## Revision Notes
+
+Detailed personal revision notes for each week, covering all lecture content, key definitions, tables and worked examples. Useful for revision and as a reference throughout the module.
+
+| Week | Topic | Notes |
+|---|---|---|
+| Week 1 | What is AI - History, Turing Test, Weak vs Strong AI, LLMs, GPU/TPU | [Week1_Notes.md](Week1/Week1_Notes.md) |
+| Week 2 | AI Ethics, Ethical Frameworks, EU AI Act, Trust in AI, Risks | [Week2_Notes.md](Week2/Week2_Notes.md) |
+| Week 3 | Logic, Sets, Relations, Functions, Graphs, Adjacency Matrices | [Week3_Notes.md](Week3/Week3_Notes.md) |
+| Week 4 | Data Science, Data Types, Big Data 3 Vs, GDPR, History of DS | [Week4_Notes.md](Week4/Week4_Notes.md) |
+| Week 5 | Full DS Pipeline, Statistics, Correlation vs Causation, Visualisation | [Week5_Notes.md](Week5/Week5_Notes.md) |
 
 ---
 
