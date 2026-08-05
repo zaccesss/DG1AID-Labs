@@ -149,3 +149,6 @@ Personal revision notes for each week, covering lecture content, key definitions
 ## License and Notice
 
 The [MIT License](LICENSE) covers the original notes and code in this repository. See [NOTICE.md](NOTICE.md) for the scope of that license: the module's own lab templates and lecture materials remain the property of Aston University and are not covered by it.
+
+> [!IMPORTANT]
+> The MIT License applies only to my own notes and code. The module's lab templates and lecture materials are not covered by it and are not available for redistribution.
