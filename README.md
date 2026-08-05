@@ -1,19 +1,13 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=DG1AID%20Labs&fontSize=42&fontAlignY=32&fontColor=ffffff&animation=fadeIn" />
-</p>
+# DG1AID Labs
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=0066CC&center=true&vCenter=true&width=700&height=55&lines=Foundations+of+AI+and+Data+Science;Aston+University+2025-26;Python+%7C+NumPy+%7C+Pandas+%7C+Matplotlib;Search+Algorithms+%7C+Machine+Learning+%7C+ANNs" />
+  <img src="https://img.shields.io/badge/Aston_University-DG1AID_2025--26-purple?style=for-the-badge&logo=academia" alt="Aston University DG1AID 2025-26" />
+  <img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3" />
+  <img src="https://img.shields.io/badge/Google_Colab-Notebooks-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab Notebooks" />
+  <img src="https://img.shields.io/badge/Status-In_Progress-brightgreen?style=for-the-badge" alt="Status: In Progress" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Aston_University-DG1AID_2025--26-purple?style=for-the-badge&logo=academia" />
-  <img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Colab-Notebooks-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-In_Progress-brightgreen?style=for-the-badge" />
-</p>
-
----
+Coursework, lab notebooks and revision notes for the "Foundations of Artificial Intelligence and Data Science" module at Aston University.
 
 ## Quick Navigation
 
@@ -23,7 +17,8 @@
   <a href="#labs-in-this-repo">Labs</a> •
   <a href="#revision-notes">Notes</a> •
   <a href="#tools-and-environment">Tools</a> •
-  <a href="#key-reading">Reading</a>
+  <a href="#key-reading">Reading</a> •
+  <a href="#license-and-notice">License</a>
 </p>
 
 ---
@@ -45,7 +40,7 @@
 <a id="module-structure"></a>
 ## Module Structure
 
-The module is divided into **4 Units** across 10 teaching weeks:
+The module is divided into 4 units across 10 teaching weeks:
 
 | Week | Unit | Lecture Topic | Lab / Tutorial |
 |---|---|---|---|
@@ -68,7 +63,7 @@ The module is divided into **4 Units** across 10 teaching weeks:
 ## Labs in This Repo
 
 ### Unit 1 - Foundational and Mathematical Concepts in AI and Data Science
-Covers the history and philosophy of AI, key definitions and approaches, AI ethics, and the mathematical foundations needed for AI and data science.
+Covers the history and philosophy of AI, key definitions and approaches, AI ethics and the mathematical foundations needed for AI and data science.
 
 - [x] Week 1 - Python I: Basic Python (data types, strings, lists, dictionaries, tuples, functions, classes)
 - [x] Week 1 - Python II: NumPy library exercises (arrays, statistics, matrix operations)
@@ -98,7 +93,7 @@ Covers supervised and unsupervised learning, classification, regression, neural 
 <a id="revision-notes"></a>
 ## Revision Notes
 
-Detailed personal revision notes for each week, covering all lecture content, key definitions, tables and worked examples. Useful for revision and as a reference throughout the module.
+Personal revision notes for each week, covering lecture content, key definitions, tables and worked examples.
 
 | Week | Topic | Notes |
 |---|---|---|
@@ -115,11 +110,11 @@ Detailed personal revision notes for each week, covering all lecture content, ke
 
 <div align="center">
 
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60"/> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" alt="Python" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="60" alt="NumPy" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="60" alt="Pandas" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="60" alt="Matplotlib" /> | <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="60" alt="Scikit-Learn" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="60" alt="Jupyter" /> |
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | **Python 3** | **NumPy** | **Pandas** | **Matplotlib** | **Scikit-Learn** | **Jupyter / Colab** |
 
-| <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60"/> |
+| <img src="https://techstack-generator.vercel.app/github-icon.svg" width="60" alt="GitHub" /> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="60" alt="Git" /> |
 |:---:|:---:|
 | **GitHub** | **Git** |
 
@@ -150,6 +145,7 @@ Detailed personal revision notes for each week, covering all lecture content, ke
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" />
-</p>
+<a id="license-and-notice"></a>
+## License and Notice
+
+The [MIT License](LICENSE) covers the original notes and code in this repository. See [NOTICE.md](NOTICE.md) for the scope of that license: the module's own lab templates and lecture materials remain the property of Aston University and are not covered by it.
