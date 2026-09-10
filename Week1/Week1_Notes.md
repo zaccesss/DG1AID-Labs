@@ -118,7 +118,7 @@ For AI, this raises critical questions:
 Established the theoretical basis for all modern computation. Introduced the concept of the Turing Machine - a theoretical device that could follow any sequence of instructions to solve any mathematical problem. Every computer ever built is essentially a physical implementation of this theoretical model.
 
 **1943 - McCulloch and Pitts propose Artificial Neural Networks**
-Looked at how biological neurons work and created the first mathematical model. A neuron receives inputs, applies weights, and fires an output if a threshold is exceeded. This idea underpins every neural network ever built.
+Looked at how biological neurons work and created the first mathematical model. A neuron receives inputs, applies weights and fires an output if a threshold is exceeded. This idea underpins every neural network ever built.
 
 **1943 - Donald Hebb proposes Hebbian Learning**
 "Neurons that fire together wire together." If two neurons consistently activate at the same time, the connection between them strengthens. This is how the brain learns and is still the conceptual basis of modern neural network training.

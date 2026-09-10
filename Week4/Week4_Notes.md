@@ -22,10 +22,10 @@ Week 4 begins Unit 2. It covers:
 There is no single agreed definition. Different sources define it slightly differently:
 
 **Gemini (2026):**
-"An interdisciplinary field that combines mathematics, statistics, artificial intelligence, and computer science to analyse large datasets and uncover actionable insights. It involves gathering, cleaning, and modelling data to identify patterns, predict future trends, and support strategic decision-making across various industries."
+"An interdisciplinary field that combines mathematics, statistics, artificial intelligence and computer science to analyse large datasets and uncover actionable insights. It involves gathering, cleaning and modelling data to identify patterns, predict future trends and support strategic decision-making across various industries."
 
 **Oxford Languages (2026):**
-"The science of analysing and extracting information from large sets of data, which typically combines elements of statistics, maths, computing, and other subjects."
+"The science of analysing and extracting information from large sets of data, which typically combines elements of statistics, maths, computing and other subjects."
 
 **Igual and Segui (2024):**
 "The pipeline of any data science goes through asking the right questions, gathering data, cleaning data, generating hypotheses, making inferences, visualising data, assessing solutions, etc."
@@ -175,7 +175,7 @@ Data can be stored and represented in several ways depending on the use case:
 | **Bar chart** | Comparing frequencies or values across categories | Easy to compare heights of bars |
 | **Pie chart** | Showing proportions of a whole | All slices must add to 100% |
 | **Histogram** | Showing distribution of a single continuous variable | Similar to bar chart but for continuous data |
-| **Boxplot (box-and-whisker)** | Showing spread, median and outliers | Shows Q1, median, Q3, and outliers |
+| **Boxplot (box-and-whisker)** | Showing spread, median and outliers | Shows Q1, median, Q3 and outliers |
 | **Scatter plot** | Showing relationship between two continuous variables | Each point = one observation |
 | **Heatmap** | Showing relationships between two categorical variables | Colour intensity shows frequency |
 | **Line chart** | Showing change over time | Continuous variable on x-axis |
@@ -292,7 +292,7 @@ Data science does not exist in an ethical vacuum. Every stage of the data pipeli
 **Key ethical questions around data:**
 - How long should data be kept? (Data that is no longer needed should be deleted)
 - Can we collect data "just in case" we need it in future? (Generally no - you should only collect what you need)
-- Should users have to actively consent, or is it opt-out? (Opt-in is more ethical but harder to implement commercially)
+- Should users have to actively consent or is it opt-out? (Opt-in is more ethical but harder to implement commercially)
 - What counts as personal data? (Name, email, IP address, browsing history, health records...)
 
 **Popular saying:** "If a product is free, you are the product." Facebook, Google and other platforms are free because they collect and monetise your data.
