@@ -17,7 +17,7 @@ Most of the history content overlaps with Week 1 and is covered in the Week 1 no
 ## Modern AI Technologies and Applications
 
 ### Language and Interaction
-- **Large Language Models (LLMs)** - ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google), Grok (xAI). Generate and reason with text. Based on Transformer architecture (2017).
+- **Large Language Models (LLMs)** - ChatGPT (OpenAI), `Claude (Anthropic)`, Gemini (Google), Grok (xAI). Generate and reason with text. Based on Transformer architecture (2017).
 - **Chatbots and Assistants** - Siri, Alexa, Google Assistant. Conversational interfaces for support and productivity.
 - **Speech Recognition and Synthesis** - Siri listening (recognition), Siri speaking back (synthesis). Modern systems can clone voices from seconds of audio.
 
@@ -323,7 +323,7 @@ The world's first legally binding AI regulation. Entered into force 1 August 202
 ## Trust in AI
 
 ### What is Trust?
-Cambridge Dictionary: "to believe that someone is good and honest and will not harm you, or that something is safe and reliable."
+Cambridge Dictionary: "to believe that someone is good and honest and will not harm you or that something is safe and reliable."
 
 ### Three Types of Trust (Andras et al. 2018)
 

@@ -53,7 +53,7 @@ If you train a language model on only 3 words, it will have a terrible conversat
 
 **What is web scraping?** Writing code (usually Python with libraries like BeautifulSoup or Scrapy) that loads a web page and extracts specific elements. Google's search engine crawls the entire web continuously using this approach.
 
-**Why human error is the biggest problem:** Whether it is manual entry, programming errors in automated systems, or bias in survey questions - human error at the data collection stage cascades through the entire pipeline. If you collect data poorly, no amount of sophisticated analysis can fix it.
+**Why human error is the biggest problem:** Whether it is manual entry, programming errors in automated systems or bias in survey questions - human error at the data collection stage cascades through the entire pipeline. If you collect data poorly, no amount of sophisticated analysis can fix it.
 
 ---
 
@@ -177,7 +177,7 @@ Converting text categories to numbers because most algorithms need numerical inp
 Example: Colour = {red, green, blue}
 - Simple encoding: red=1, green=2, blue=3
 
-Problem with simple encoding: the algorithm might assume green is "between" red and blue, or that blue (3) is three times red (1). These relationships do not exist.
+Problem with simple encoding: the algorithm might assume green is "between" red and blue or that blue (3) is three times red (1). These relationships do not exist.
 
 Better approach - **One-hot encoding:**
 - Create a separate binary column for each category
@@ -360,7 +360,7 @@ This is crucial. The wrong chart can be more confusing than helpful - or worse, 
 - **Label all axes** with clear names and units
 - **Use appropriate scales** - log scale can be useful for data spanning many orders of magnitude
 - **Avoid chartjunk** - unnecessary decoration, 3D effects, background images that add no information
-- **Use colour meaningfully** - not just for decoration, and ensure it is accessible to colour-blind readers
+- **Use colour meaningfully** - not just for decoration and ensure it is accessible to colour-blind readers
 - **Title your charts** - the reader should be able to understand the chart without the surrounding text
 - **Be honest** - never truncate axes, cherry-pick time periods or choose chart types to mislead
 
