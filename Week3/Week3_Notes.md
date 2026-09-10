@@ -48,8 +48,8 @@ Example:
 - Let q = "the light is on"
 - Now we can write p ∧ q to mean "the motor is on AND the light is on"
 
-True can be represented as T, 1, or the word "true"
-False can be represented as F, 0, or the word "false"
+True can be represented as T, 1 or the word "true"
+False can be represented as F, 0 or the word "false"
 
 ---
 
@@ -352,7 +352,7 @@ A relation on a single set A (where both the input and output come from A) can h
 - Example: {(1,2), (2,1), (3,3)} ✓
 - Think: every arrow has a corresponding reverse arrow
 
-**Transitive:** If x relates to y, and y relates to z, then x also relates to z.
+**Transitive:** If x relates to y and y relates to z, then x also relates to z.
 - If (x,y) and (y,z) are in the relation, then (x,z) must also be in the relation
 - Example: {(1,2), (2,3), (1,3)} ✓ - because 1→2 and 2→3, we need 1→3
 - Think: if A leads to B and B leads to C, then A can reach C directly
@@ -386,7 +386,7 @@ A function that maps from set A (domain) to set B is written: f: A → B
 | Injective (one-to-one) | Left-unique | Each input maps to a UNIQUE output. No two inputs give the same output. | f(x) = 2x |
 | Surjective (onto) | Right-total | Every possible output is produced by at least one input. | f(x) = x³ |
 | Bijective | Both injective and surjective | Perfect one-to-one correspondence. Every output is produced exactly once. | f(x) = x |
-| General function | Neither | Multiple inputs can map to the same output, and some outputs are unreachable. | f(x) = x² over ℝ |
+| General function | Neither | Multiple inputs can map to the same output and some outputs are unreachable. | f(x) = x² over ℝ |
 
 **Python connection:** The relu function you wrote in Lab II is a function:
 - Domain: all real numbers (ℝ)
@@ -406,8 +406,8 @@ In everyday language, "graph" usually means a chart (bar chart, line chart, pie 
 
 A graph G consists of three components:
 
-1. **V** - a set of **vertices** (also called nodes, sites, or points) - the objects
-2. **E** - a set of **edges** (also called links, connections, or lines) - the relationships
+1. **V** - a set of **vertices** (also called nodes, sites or points) - the objects
+2. **E** - a set of **edges** (also called links, connections or lines) - the relationships
 3. **I** - the **incidence function** - a set of tuples showing which vertices are connected by which edges
 
 **Example:**
