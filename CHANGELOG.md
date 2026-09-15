@@ -21,5 +21,5 @@ Format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/).
 - Week folders renamed from `Week1`-`Week11` to zero-padded `Week_01`-`Week_11`, so they sort in the correct numeric order instead of alphabetically (`Week1`, `Week10`, `Week11`, `Week2`...)
 - Top badge row rebuilt as flat, left-aligned badges matching the rest of the fleet, replacing the boxed `for-the-badge` style
 - Added a Repository Structure section and a Contact and Support section with callouts, matching the README structure used across other repositories
-- `.markdownlint.json` tailored further: `MD022` and `MD052` disabled to match this repository's own heading style and matrix notation
+- `.markdownlint.json` tailored further: `MD022` and `MD052` disabled to match this repository's own heading style and matrix notation, `MD037` disabled since "A*" and multiplication asterisks in maths notation are not emphasis markers
 - Status badge updated from in progress to completed, now that every week has notes and every week with an available lab notebook has one
