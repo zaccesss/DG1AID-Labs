@@ -1,6 +1,5 @@
 # DG1AID - Week 3 Notes
 ## Unit 1 - Mathematics for AI and Data Science
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 
@@ -27,7 +26,7 @@ A **proposition** is a statement that can be either TRUE or FALSE. It must be on
 
 **Examples of valid propositions:**
 - "The motor is on" - either it is or it is not
-- "Isaac is studying at Aston University" - either true or false
+- "The library is open" - either true or false
 - "It is raining" - either true or false
 
 **Examples that are NOT propositions:**

@@ -1,6 +1,5 @@
 # DG1AID - Week 5 Notes
 ## Unit 2 - Data Science Concepts
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 

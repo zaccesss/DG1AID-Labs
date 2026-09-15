@@ -1,6 +1,5 @@
 # DG1AID - Week 4 Notes
 ## Unit 2 - Introduction to Data Science
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 
@@ -51,7 +50,7 @@ There is no single agreed definition. Different sources define it slightly diffe
 - Most people think of data as spreadsheets of numbers - but data is much broader than this
 - **Data becomes INFORMATION when meaning is added to it**
 
-Example: "1.78" is a datum. "Isaac's height is 1.78m" is information.
+Example: "1.78" is a datum. "The room is 1.78m wide" is information.
 
 ---
 

@@ -1,6 +1,5 @@
 # DG1AID - Week 2 Notes
 ## Unit 1 - AI History, Applications, Technologies and Ethics
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 
