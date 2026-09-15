@@ -2,7 +2,7 @@
 
 [![Markdown Lint](https://github.com/zaccesss/DG1AID-Labs/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/DG1AID-Labs/actions/workflows/markdownlint.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Status](https://img.shields.io/badge/status-in_progress-yellow.svg)](CHANGELOG.md)
+[![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)](CHANGELOG.md)
 
 Coursework, lab notebooks and revision notes for the "Foundations of Artificial Intelligence and Data Science" module at Aston University.
 
@@ -72,20 +72,22 @@ Covers the history and philosophy of AI, key definitions and approaches, AI ethi
 ### Unit 2 - Data Science Fundamentals
 Covers the data science pipeline, statistical concepts, data cleaning, manipulation and visualisation using Python and Excel.
 
-- [ ] Week 4 - Mathematical Foundations in Excel and Python
-- [ ] Week 5 - Manipulating and Visualising Data in Excel and Python (Pandas, Matplotlib)
+- [x] Week 4 - Mathematical Foundations in Excel and Python
+- [x] Week 5 - Manipulating and Visualising Data in Excel and Python (Pandas, Matplotlib)
 
 ### Unit 3 - Algorithmic Problem Solving
 Covers problem formulation, state spaces, uninformed and informed search algorithms, constraint satisfaction problems and shortest path algorithms.
 
-- [ ] Week 7 - Uninformed Search in Python (BFS, DFS)
-- [ ] Week 8 - Graph Colouring and Shortest Path in Python (A*, constraint satisfaction)
+- [x] Week 6 - Agents, Problem Formulation and Uninformed Search (BFS, DFS)
+- [x] Week 7 - Uninformed Search in Python (BFS, DFS)
+- [x] Week 8 - Graph Colouring and Shortest Path in Python (A*, constraint satisfaction)
 
 ### Unit 4 - Machine Learning and Artificial Neural Networks
 Covers supervised and unsupervised learning, classification, regression, neural network architecture, training and evaluation.
 
-- [ ] Week 9 - Teachable Machines (Google)
-- [ ] Week 10 - Machine Learning in Python (scikit-learn, neural networks)
+- [x] Week 9 - Teachable Machines (Google)
+- [x] Week 10 - Machine Learning in Python (scikit-learn, neural networks)
+- [x] Week 11 - AI and Robotics (assessment week, guest lectures)
 
 ---
 
@@ -101,6 +103,12 @@ Personal revision notes for each week, covering lecture content, key definitions
 | Week 3 | Logic, Sets, Relations, Functions, Graphs, Adjacency Matrices | [Week3_Notes.md](Week_03/Week3_Notes.md) |
 | Week 4 | Data Science, Data Types, Big Data 3 Vs, GDPR, History of DS | [Week4_Notes.md](Week_04/Week4_Notes.md) |
 | Week 5 | Full DS Pipeline, Statistics, Correlation vs Causation, Visualisation | [Week5_Notes.md](Week_05/Week5_Notes.md) |
+| Week 6 | Agents, Problem Formulation, Search Trees, BFS, DFS | [Week6_Notes.md](Week_06/Week6_Notes.md) |
+| Week 7 | DLS, IDS, Heuristics, Greedy Best-First, A* Search | [Week7_Notes.md](Week_07/Week7_Notes.md) |
+| Week 8 | CSPs, Map Colouring, Backtracking, ACO, PSO, Evolutionary Algorithms | [Week8_Notes.md](Week_08/Week8_Notes.md) |
+| Week 9 | Machine Learning Types, ML Workflow, Overfitting, Linear Regression | [Week9_Notes.md](Week_09/Week9_Notes.md) |
+| Week 10 | Artificial Neurons, Activation Functions, Perceptrons, XOR, MLPs | [Week10_Notes.md](Week_10/Week10_Notes.md) |
+| Week 11 | AI and Robotics (assessment week, guest lectures) | [Week11_Notes.md](Week_11/Week11_Notes.md) |
 
 ---
 
