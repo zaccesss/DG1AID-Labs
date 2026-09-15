@@ -1,11 +1,8 @@
 # DG1AID Labs
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Aston_University-DG1AID_2025--26-purple?style=for-the-badge&logo=academia" alt="Aston University DG1AID 2025-26" />
-  <img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3" />
-  <img src="https://img.shields.io/badge/Google_Colab-Notebooks-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab Notebooks" />
-  <img src="https://img.shields.io/badge/Status-In_Progress-brightgreen?style=for-the-badge" alt="Status: In Progress" />
-</p>
+[![Markdown Lint](https://github.com/zaccesss/DG1AID-Labs/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/DG1AID-Labs/actions/workflows/markdownlint.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-in_progress-yellow.svg)](CHANGELOG.md)
 
 Coursework, lab notebooks and revision notes for the "Foundations of Artificial Intelligence and Data Science" module at Aston University.
 
@@ -13,12 +10,14 @@ Coursework, lab notebooks and revision notes for the "Foundations of Artificial 
 
 <p align="center">
   <a href="#module-overview">Overview</a> •
-  <a href="#module-structure">Structure</a> •
+  <a href="#module-structure">Weeks</a> •
   <a href="#labs-in-this-repo">Labs</a> •
   <a href="#revision-notes">Notes</a> •
   <a href="#tools-and-environment">Tools</a> •
+  <a href="#repository-structure">Files</a> •
   <a href="#key-reading">Reading</a> •
-  <a href="#license-and-notice">License</a>
+  <a href="#license-and-notice">Licence</a> •
+  <a href="#contact-and-support">Support</a>
 </p>
 
 ---
@@ -97,11 +96,11 @@ Personal revision notes for each week, covering lecture content, key definitions
 
 | Week | Topic | Notes |
 |---|---|---|
-| Week 1 | What is AI - History, Turing Test, Weak vs Strong AI, LLMs, GPU/TPU | [Week1_Notes.md](Week1/Week1_Notes.md) |
-| Week 2 | AI Ethics, Ethical Frameworks, EU AI Act, Trust in AI, Risks | [Week2_Notes.md](Week2/Week2_Notes.md) |
-| Week 3 | Logic, Sets, Relations, Functions, Graphs, Adjacency Matrices | [Week3_Notes.md](Week3/Week3_Notes.md) |
-| Week 4 | Data Science, Data Types, Big Data 3 Vs, GDPR, History of DS | [Week4_Notes.md](Week4/Week4_Notes.md) |
-| Week 5 | Full DS Pipeline, Statistics, Correlation vs Causation, Visualisation | [Week5_Notes.md](Week5/Week5_Notes.md) |
+| Week 1 | What is AI - History, Turing Test, Weak vs Strong AI, LLMs, GPU/TPU | [Week1_Notes.md](Week_01/Week1_Notes.md) |
+| Week 2 | AI Ethics, Ethical Frameworks, EU AI Act, Trust in AI, Risks | [Week2_Notes.md](Week_02/Week2_Notes.md) |
+| Week 3 | Logic, Sets, Relations, Functions, Graphs, Adjacency Matrices | [Week3_Notes.md](Week_03/Week3_Notes.md) |
+| Week 4 | Data Science, Data Types, Big Data 3 Vs, GDPR, History of DS | [Week4_Notes.md](Week_04/Week4_Notes.md) |
+| Week 5 | Full DS Pipeline, Statistics, Correlation vs Causation, Visualisation | [Week5_Notes.md](Week_05/Week5_Notes.md) |
 
 ---
 
@@ -119,6 +118,25 @@ Personal revision notes for each week, covering lecture content, key definitions
 | **GitHub** | **Git** |
 
 </div>
+
+---
+
+<a id="repository-structure"></a>
+## Repository Structure
+
+```
+DG1AID-Labs/
+├── Week_01/ ... Week_11/  One folder per teaching week
+│   ├── README.md          One-line summary of that week's topic
+│   ├── Week*_Notes.md     My own revision notes for that week
+│   └── *.ipynb            Completed lab notebooks, where the week had one
+├── CHANGELOG.md           What changed here and when
+├── CONTRIBUTING.md        How to report a correction
+├── SECURITY.md            How to report a security issue privately
+├── SUPPORT.md             Where to go for help
+├── NOTICE.md              Scope of the MIT Licence
+└── LICENSE                MIT Licence
+```
 
 ---
 
@@ -146,9 +164,20 @@ Personal revision notes for each week, covering lecture content, key definitions
 ---
 
 <a id="license-and-notice"></a>
-## License and Notice
+## Licence and Notice
 
-The [MIT License](LICENSE) covers the original notes and code in this repository. See [NOTICE.md](NOTICE.md) for the scope of that license: the module's own lab templates and lecture materials remain the property of Aston University and are not covered by it.
+The [MIT Licence](LICENSE) covers the original notes and code in this repository. See [NOTICE.md](NOTICE.md) for the scope of that licence: the module's own lab templates and lecture materials remain the property of Aston University and are not covered by it.
 
 > [!IMPORTANT]
-> The MIT License applies only to my own notes and code. The module's lab templates and lecture materials are not covered by it and are not available for redistribution.
+> The MIT Licence applies only to my own notes and code. The module's lab templates and lecture materials are not covered by it and are not available for redistribution.
+
+---
+
+<a id="contact-and-support"></a>
+## Contact and Support
+
+> [!TIP]
+> Found a factual error or a broken link? See [CONTRIBUTING.md](CONTRIBUTING.md) for how to report it. Reach me directly at [contact@isaacadjei.me](mailto:contact@isaacadjei.me) or through [isaacadjei.me/contact](https://isaacadjei.me/contact). What has changed here is tracked in [CHANGELOG.md](CHANGELOG.md).
+
+> [!IMPORTANT]
+> Found a security issue? Do not open a public issue, see [SECURITY.md](SECURITY.md) for how to report it privately.
