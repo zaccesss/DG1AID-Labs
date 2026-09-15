@@ -1,6 +1,5 @@
 # DG1AID - Week 8 Notes
 ## Unit 3 - Constraint Satisfaction Problems and Nature-Inspired Algorithms
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 

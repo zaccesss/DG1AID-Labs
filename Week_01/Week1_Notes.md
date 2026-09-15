@@ -1,6 +1,5 @@
 # DG1AID - Week 1 Notes
 ## Unit 1 - What is AI? Foundations and History
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 

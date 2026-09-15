@@ -1,6 +1,5 @@
 # DG1AID - Week 9 Notes
 ## Unit 4 - Introduction to Machine Learning
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 

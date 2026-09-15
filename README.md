@@ -4,12 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)](CHANGELOG.md)
 
-Coursework, lab notebooks and revision notes for the "Foundations of Artificial Intelligence and Data Science" module at Aston University.
+Coursework, lab notebooks and revision notes for the "Foundations of Artificial Intelligence and Data Science" module.
 
 ## Quick Navigation
 
 <p align="center">
-  <a href="#module-overview">Overview</a> •
   <a href="#module-structure">Weeks</a> •
   <a href="#labs-in-this-repo">Labs</a> •
   <a href="#revision-notes">Notes</a> •
@@ -19,20 +18,6 @@ Coursework, lab notebooks and revision notes for the "Foundations of Artificial 
   <a href="#license-and-notice">Licence</a> •
   <a href="#contact-and-support">Support</a>
 </p>
-
----
-
-<a id="module-overview"></a>
-## Module Overview
-
-| Detail | Info |
-|---|---|
-| **Module Code** | DG1AID |
-| **Module Title** | Foundations of Artificial Intelligence and Data Science |
-| **University** | Aston University |
-| **Academic Year** | 2025-26 |
-| **Programme** | BEng Electronic Engineering and Computer Science |
-| **Environment** | Google Colab (Python 3) |
 
 ---
 

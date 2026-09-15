@@ -1,6 +1,5 @@
 # DG1AID - Week 11 Notes
 ## AI and Robotics (Assessment Week, Units 3 and 4)
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 

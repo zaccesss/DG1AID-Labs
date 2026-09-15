@@ -1,6 +1,5 @@
 # DG1AID - Week 6 Notes
 ## Unit 3 - Solving Problems by Search (Part I)
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 

@@ -1,6 +1,5 @@
 # DG1AID - Week 10 Notes
 ## Unit 4 - Introduction to Artificial Neural Networks
-### Aston University - Foundations of AI and Data Science (2025-26)
 
 ---
 
