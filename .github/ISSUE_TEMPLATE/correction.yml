@@ -1,0 +1,33 @@
+name: Correction
+description: Report a factual error, broken link or typo in a note or lab writeup
+title: "fix: "
+labels: ["bug"]
+assignees:
+  - zaccesss
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Which week and file
+      placeholder: "Week3/Week3_Notes.md"
+    validations:
+      required: true
+  - type: textarea
+    id: whats-wrong
+    attributes:
+      label: What is wrong?
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: What should it say instead?
+      description: If you know the correct information, include it here.
+    validations:
+      required: false
+  - type: textarea
+    id: context
+    attributes:
+      label: Additional context
+    validations:
+      required: false

@@ -1,39 +1,23 @@
 # DG1AID Labs
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Aston_University-DG1AID_2025--26-purple?style=for-the-badge&logo=academia" alt="Aston University DG1AID 2025-26" />
-  <img src="https://img.shields.io/badge/Python-3-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3" />
-  <img src="https://img.shields.io/badge/Google_Colab-Notebooks-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab Notebooks" />
-  <img src="https://img.shields.io/badge/Status-In_Progress-brightgreen?style=for-the-badge" alt="Status: In Progress" />
-</p>
+[![Markdown Lint](https://github.com/zaccesss/DG1AID-Labs/actions/workflows/markdownlint.yml/badge.svg)](https://github.com/zaccesss/DG1AID-Labs/actions/workflows/markdownlint.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-completed-brightgreen.svg)](CHANGELOG.md)
 
-Coursework, lab notebooks and revision notes for the "Foundations of Artificial Intelligence and Data Science" module at Aston University.
+Coursework, lab notebooks and revision notes for the "Foundations of Artificial Intelligence and Data Science" module.
 
 ## Quick Navigation
 
 <p align="center">
-  <a href="#module-overview">Overview</a> •
-  <a href="#module-structure">Structure</a> •
+  <a href="#module-structure">Weeks</a> •
   <a href="#labs-in-this-repo">Labs</a> •
   <a href="#revision-notes">Notes</a> •
   <a href="#tools-and-environment">Tools</a> •
+  <a href="#repository-structure">Files</a> •
   <a href="#key-reading">Reading</a> •
-  <a href="#license-and-notice">License</a>
+  <a href="#license-and-notice">Licence</a> •
+  <a href="#contact-and-support">Support</a>
 </p>
-
----
-
-<a id="module-overview"></a>
-## Module Overview
-
-| Detail | Info |
-|---|---|
-| **Module Code** | DG1AID |
-| **Module Title** | Foundations of Artificial Intelligence and Data Science |
-| **University** | Aston University |
-| **Academic Year** | 2025-26 |
-| **Programme** | BEng Electronic Engineering and Computer Science |
-| **Environment** | Google Colab (Python 3) |
 
 ---
 
@@ -73,20 +57,22 @@ Covers the history and philosophy of AI, key definitions and approaches, AI ethi
 ### Unit 2 - Data Science Fundamentals
 Covers the data science pipeline, statistical concepts, data cleaning, manipulation and visualisation using Python and Excel.
 
-- [ ] Week 4 - Mathematical Foundations in Excel and Python
-- [ ] Week 5 - Manipulating and Visualising Data in Excel and Python (Pandas, Matplotlib)
+- [x] Week 4 - Mathematical Foundations in Excel and Python
+- [x] Week 5 - Manipulating and Visualising Data in Excel and Python (Pandas, Matplotlib)
 
 ### Unit 3 - Algorithmic Problem Solving
 Covers problem formulation, state spaces, uninformed and informed search algorithms, constraint satisfaction problems and shortest path algorithms.
 
-- [ ] Week 7 - Uninformed Search in Python (BFS, DFS)
-- [ ] Week 8 - Graph Colouring and Shortest Path in Python (A*, constraint satisfaction)
+- [x] Week 6 - Agents, Problem Formulation and Uninformed Search (BFS, DFS)
+- [x] Week 7 - Uninformed Search in Python (BFS, DFS)
+- [x] Week 8 - Graph Colouring and Shortest Path in Python (A*, constraint satisfaction)
 
 ### Unit 4 - Machine Learning and Artificial Neural Networks
 Covers supervised and unsupervised learning, classification, regression, neural network architecture, training and evaluation.
 
-- [ ] Week 9 - Teachable Machines (Google)
-- [ ] Week 10 - Machine Learning in Python (scikit-learn, neural networks)
+- [x] Week 9 - Teachable Machines (Google)
+- [x] Week 10 - Machine Learning in Python (scikit-learn, neural networks)
+- [x] Week 11 - AI and Robotics (assessment week, guest lectures)
 
 ---
 
@@ -97,11 +83,17 @@ Personal revision notes for each week, covering lecture content, key definitions
 
 | Week | Topic | Notes |
 |---|---|---|
-| Week 1 | What is AI - History, Turing Test, Weak vs Strong AI, LLMs, GPU/TPU | [Week1_Notes.md](Week1/Week1_Notes.md) |
-| Week 2 | AI Ethics, Ethical Frameworks, EU AI Act, Trust in AI, Risks | [Week2_Notes.md](Week2/Week2_Notes.md) |
-| Week 3 | Logic, Sets, Relations, Functions, Graphs, Adjacency Matrices | [Week3_Notes.md](Week3/Week3_Notes.md) |
-| Week 4 | Data Science, Data Types, Big Data 3 Vs, GDPR, History of DS | [Week4_Notes.md](Week4/Week4_Notes.md) |
-| Week 5 | Full DS Pipeline, Statistics, Correlation vs Causation, Visualisation | [Week5_Notes.md](Week5/Week5_Notes.md) |
+| Week 1 | What is AI - History, Turing Test, Weak vs Strong AI, LLMs, GPU/TPU | [Week1_Notes.md](Week_01/Week1_Notes.md) |
+| Week 2 | AI Ethics, Ethical Frameworks, EU AI Act, Trust in AI, Risks | [Week2_Notes.md](Week_02/Week2_Notes.md) |
+| Week 3 | Logic, Sets, Relations, Functions, Graphs, Adjacency Matrices | [Week3_Notes.md](Week_03/Week3_Notes.md) |
+| Week 4 | Data Science, Data Types, Big Data 3 Vs, GDPR, History of DS | [Week4_Notes.md](Week_04/Week4_Notes.md) |
+| Week 5 | Full DS Pipeline, Statistics, Correlation vs Causation, Visualisation | [Week5_Notes.md](Week_05/Week5_Notes.md) |
+| Week 6 | Agents, Problem Formulation, Search Trees, BFS, DFS | [Week6_Notes.md](Week_06/Week6_Notes.md) |
+| Week 7 | DLS, IDS, Heuristics, Greedy Best-First, A* Search | [Week7_Notes.md](Week_07/Week7_Notes.md) |
+| Week 8 | CSPs, Map Colouring, Backtracking, ACO, PSO, Evolutionary Algorithms | [Week8_Notes.md](Week_08/Week8_Notes.md) |
+| Week 9 | Machine Learning Types, ML Workflow, Overfitting, Linear Regression | [Week9_Notes.md](Week_09/Week9_Notes.md) |
+| Week 10 | Artificial Neurons, Activation Functions, Perceptrons, XOR, MLPs | [Week10_Notes.md](Week_10/Week10_Notes.md) |
+| Week 11 | AI and Robotics (assessment week, guest lectures) | [Week11_Notes.md](Week_11/Week11_Notes.md) |
 
 ---
 
@@ -119,6 +111,25 @@ Personal revision notes for each week, covering lecture content, key definitions
 | **GitHub** | **Git** |
 
 </div>
+
+---
+
+<a id="repository-structure"></a>
+## Repository Structure
+
+```
+DG1AID-Labs/
+├── Week_01/ ... Week_11/  One folder per teaching week
+│   ├── README.md          One-line summary of that week's topic
+│   ├── Week*_Notes.md     My own revision notes for that week
+│   └── *.ipynb            Completed lab notebooks, where the week had one
+├── CHANGELOG.md           What changed here and when
+├── CONTRIBUTING.md        How to report a correction
+├── SECURITY.md            How to report a security issue privately
+├── SUPPORT.md             Where to go for help
+├── NOTICE.md              Scope of the MIT Licence
+└── LICENSE                MIT Licence
+```
 
 ---
 
@@ -146,9 +157,20 @@ Personal revision notes for each week, covering lecture content, key definitions
 ---
 
 <a id="license-and-notice"></a>
-## License and Notice
+## Licence and Notice
 
-The [MIT License](LICENSE) covers the original notes and code in this repository. See [NOTICE.md](NOTICE.md) for the scope of that license: the module's own lab templates and lecture materials remain the property of Aston University and are not covered by it.
+The [MIT Licence](LICENSE) covers the original notes and code in this repository. See [NOTICE.md](NOTICE.md) for the scope of that licence: the module's own lab templates and lecture materials remain the property of Aston University and are not covered by it.
 
 > [!IMPORTANT]
-> The MIT License applies only to my own notes and code. The module's lab templates and lecture materials are not covered by it and are not available for redistribution.
+> The MIT Licence applies only to my own notes and code. The module's lab templates and lecture materials are not covered by it and are not available for redistribution.
+
+---
+
+<a id="contact-and-support"></a>
+## Contact and Support
+
+> [!TIP]
+> Found a factual error or a broken link? See [CONTRIBUTING.md](CONTRIBUTING.md) for how to report it. Reach me directly at [contact@isaacadjei.me](mailto:contact@isaacadjei.me) or through [isaacadjei.me/contact](https://isaacadjei.me/contact). What has changed here is tracked in [CHANGELOG.md](CHANGELOG.md).
+
+> [!IMPORTANT]
+> Found a security issue? Do not open a public issue, see [SECURITY.md](SECURITY.md) for how to report it privately.
